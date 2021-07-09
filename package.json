@@ -1,0 +1,25 @@
+{
+  "name": "xml-to-json-poc",
+  "version": "0.0.1",
+  "description": "Quick demo for converting XML to JSON with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "xml",
+    "json",
+    "parse",
+    "nodejs"
+  ],
+  "author": "HansKre",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:HansKre/xml-to-json-poc.git"
+  },
+  "dependencies": {
+    "fast-xml-parser": "^3.19.0",
+    "he": "^1.2.0"
+  }
+}
